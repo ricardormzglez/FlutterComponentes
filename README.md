@@ -1,16 +1,20 @@
-# fl_componentes
+# Flutter: Componentes
 
-A new Flutter project.
+Aplicación con diferentes ejemplos de componentes en Flutter 3
 
-## Getting Started
+## Componentes
 
-This project is a starting point for a Flutter application.
+Ejemplos que contiene la aplicación:
+- Página de Inicio
+- Información de la aplicación (About)
+- Alerta
+- Animación
+- Avatar
+- Cards
+- Inputs
+- Lista (InfiniteScroll y PullRefresh)
+- Lista simple
+- Lista con SnackBar
+- Slider y Checks
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Los ejemplos son de uso útil y profesional
