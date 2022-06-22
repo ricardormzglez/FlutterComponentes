@@ -1,0 +1,10 @@
+export 'package:fl_componentes/screens/listview_builder.dart';
+export 'package:fl_componentes/screens/slider.dart';
+export 'package:fl_componentes/screens/inputs.dart';
+export 'package:fl_componentes/screens/animacion.dart';
+export 'package:fl_componentes/screens/avatar.dart';
+export 'package:fl_componentes/screens/alert.dart';
+export 'package:fl_componentes/screens/card.dart';
+export 'package:fl_componentes/screens/home.dart';
+export 'package:fl_componentes/screens/listview1.dart';
+export 'package:fl_componentes/screens/listview2.dart';
